@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi, I'm Nandish Bandi 👋
+
+🎓 I’m currently studying Masters in Data Science
+
+✉️ Reach me: nandish21594@gmail.com
 
 <!--
 **nandish21594/nandish21594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
