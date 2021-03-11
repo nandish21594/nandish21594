@@ -2,5 +2,6 @@
 
 🎓 I’m currently studying Masters in Data Science
 
-​            ✉️ Reach me: nandish21594@gmail.com
+✉️ Reach me: https://www.linkedin.com/in/nandish21594/
+
 
